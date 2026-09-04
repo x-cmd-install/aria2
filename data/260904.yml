@@ -7,13 +7,13 @@ about:
   head: 9e72735
   archived: false
   latestVersion: release-1.37.0
-  collectedAt: 2026-09-04T19:59:49Z
+  collectedAt: 2026-09-04T20:40:52Z
 timeline:
   created: 2010-11-27
   lastCommit: 2026-06-25
   lastRelease: 2023-11-15
 popularity:
-  star: 41910
+  star: 41911
   watcher: 736
   fork: 3895
   release: 24
@@ -85,6 +85,99 @@ total:
   openIssue: 1112
   commit: 5447
 ---
+path: /home/runner/.x-repo/github.com/aria2/aria2
+collectedAt: 2026-09-04T20:40:57Z
+loc:
+  Cpp:
+    code: 93732
+    comments: 17531
+    blanks: 13111
+    files: 609
+  CHeader:
+    code: 25636
+    comments: 22430
+    blanks: 10060
+    files: 560
+  ReStructuredText:
+    code: 10977
+    comments: 0
+    blanks: 3844
+    files: 13
+  C:
+    code: 4957
+    comments: 1038
+    blanks: 574
+    files: 22
+  Svg:
+    code: 2671
+    comments: 0
+    blanks: 0
+    files: 1
+  Automake:
+    code: 1451
+    comments: 94
+    blanks: 183
+    files: 15
+  Ruby:
+    code: 475
+    comments: 77
+    blanks: 32
+    files: 2
+  Html:
+    code: 465
+    comments: 3
+    blanks: 20
+    files: 6
+  Python:
+    code: 416
+    comments: 69
+    blanks: 50
+    files: 3
+  Makefile:
+    code: 305
+    comments: 83
+    blanks: 61
+    files: 1
+  Sh:
+    code: 249
+    comments: 170
+    blanks: 60
+    files: 10
+  Xml:
+    code: 176
+    comments: 0
+    blanks: 3
+    files: 6
+  Autoconf:
+    code: 135
+    comments: 455
+    blanks: 182
+    files: 7
+  Bitbake:
+    code: 19
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 2
+    comments: 3
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Text:
+    code: 0
+    comments: 67
+    blanks: 7
+    files: 12
+total:
+  code: 141669
+  comments: 42020
+  blanks: 28188
+  files: 1272
 ---
 date: "2026-08-24"
 repo:
