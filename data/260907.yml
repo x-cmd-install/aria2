@@ -5,19 +5,19 @@ about:
   head: 9e72735
   archived: false
   latestVersion: "release-1.37.0"
-  collectedAt: 2026-09-07T04:27:20Z
+  collectedAt: 2026-09-07T19:55:04Z
 timeline:
   created: 2010-11-27
   lastCommit: 2026-06-25
   lastRelease: 2023-11-15
 popularity:
-  star: 41938
+  star: 41949
   watcher: 737
-  fork: 3899
+  fork: 3900
   release: 24
   contributor: 64
   pullRequest: 400
-  issue: 1943
+  issue: 1944
 language:
   C++: 5666410
   C: 219834
@@ -33,7 +33,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 18
+    openIssue: 19
     commit: 0
   last60d:
     since: 2026-07-09
@@ -41,7 +41,7 @@ recent:
     mergedPR: 0
     openPR: 7
     closedIssue: 0
-    openIssue: 22
+    openIssue: 23
     commit: 0
   last90d:
     since: 2026-06-09
@@ -49,7 +49,7 @@ recent:
     mergedPR: 1
     openPR: 9
     closedIssue: 0
-    openIssue: 23
+    openIssue: 24
     commit: 1
   last180d:
     since: 2026-03-11
@@ -57,7 +57,7 @@ recent:
     mergedPR: 2
     openPR: 14
     closedIssue: 0
-    openIssue: 29
+    openIssue: 30
     commit: 2
   last360d:
     since: 2025-09-12
@@ -65,7 +65,7 @@ recent:
     mergedPR: 5
     openPR: 17
     closedIssue: 1
-    openIssue: 50
+    openIssue: 51
     commit: 5
   last720d:
     since: 2024-09-17
@@ -73,18 +73,18 @@ recent:
     mergedPR: 6
     openPR: 19
     closedIssue: 6
-    openIssue: 91
+    openIssue: 92
     commit: 12
 total:
   release: 24
   mergedPR: 258
   openPR: 63
   closedIssue: 830
-  openIssue: 1113
+  openIssue: 1114
   commit: 5447
 ---
 path: /home/runner/.x-repo/github.com/aria2/aria2
-collectedAt: 2026-09-07T04:27:31Z
+collectedAt: 2026-09-07T19:55:15Z
 loc:
   Cpp:
     code: 93732
@@ -276,7 +276,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/android.yml:13'
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:32+00:00
+  collectedAt: 2026-09-07T19:55:16+00:00
   platform:
     darwin/arm64:
       name:  null
