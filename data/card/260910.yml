@@ -7,7 +7,7 @@ about:
   latestVersion: "release-1.37.0"
   latestRelease: "release-1.37.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:32:27Z
+  collectedAt: 2026-09-10T21:48:07Z
 timeline:
   created: 2010-11-27
   lastCommit: 2026-06-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2023-11-15
   lastPrerelease: 
 popularity:
-  star: 41968
+  star: 41969
   watcher: 737
   fork: 3898
   release: 24
@@ -88,7 +88,7 @@ total:
   commit: 5447
 ---
 path: /home/runner/.x-repo/github.com/aria2/aria2
-collectedAt: 2026-09-10T16:32:44Z
+collectedAt: 2026-09-10T21:48:17Z
 loc:
   Cpp:
     code: 93732
