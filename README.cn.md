@@ -4,7 +4,7 @@
 
 aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-![aria2](https://repo.x-cmd.io/aria2.svg)
+![aria2](https://repo.x-cmd.io/aria2.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,21 @@ x install aria2
 - **最新版本**: `release-1.37.0` (2023-11-15)
 - **最近提交**: 2026-06-25
 - **Release 含资产**: 6 个
-- **发布时间**: 2023-11-15T12:07:32Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aria2-1.37.0-aarch64-linux-android-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-aarch64-linux-android-build1.zip) | 2.4 MiB | `native/linux/arm64` |
+| [aria2-1.37.0-win-32bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip) | 2.4 MiB | `other` |
+| [aria2-1.37.0-win-64bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip) | 2.4 MiB | `other` |
+| [aria2-1.37.0.tar.bz2](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.bz2) | 2.3 MiB | `other` |
+| [aria2-1.37.0.tar.gz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz) | 3.7 MiB | `native/unknown` |
+| [aria2-1.37.0.tar.xz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz) | 1.6 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 41,965 · **Fork**: 3,898 · **开放 issue**: 1,944 · **贡献者**: 64
+- **Star**: 41,968 · **Fork**: 3,898 · **开放 issue**: 1,944 · **贡献者**: 64
 
 ## 累计统计
 
@@ -72,4 +82,4 @@ aria2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:31:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:02Z._
