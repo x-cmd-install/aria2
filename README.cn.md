@@ -12,45 +12,6 @@ aria2 is a lightweight multi-protocol & multi-source, cross platform download ut
 x install aria2
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/aria2/aria2>
-- **官网**: <https://aria2.github.io/>
-- **许可证**: GPL-2.0
-
-## 发布
-
-- **最新版本**: `release-1.37.0` (2023-11-15)
-- **最近提交**: 2026-06-25
-- **Release 含资产**: 6 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [aria2-1.37.0-aarch64-linux-android-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-aarch64-linux-android-build1.zip) | 2.4 MiB | `native/linux/arm64` |
-| [aria2-1.37.0-win-32bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip) | 2.4 MiB | `other` |
-| [aria2-1.37.0-win-64bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip) | 2.4 MiB | `other` |
-| [aria2-1.37.0.tar.bz2](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.bz2) | 2.3 MiB | `other` |
-| [aria2-1.37.0.tar.gz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz) | 3.7 MiB | `native/unknown` |
-| [aria2-1.37.0.tar.xz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz) | 1.6 MiB | `other` |
-
-## 流行度
-
-- **Star**: 41,968 · **Fork**: 3,898 · **开放 issue**: 1,944 · **贡献者**: 64
-
-## 累计统计
-
-- **发布数**: 24 · **已合并 PR**: 258 · **开放 PR**: 63 · **已关闭 issue**: 830 · **开放 issue**: 1114 · **提交数**: 5447
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 19 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 9 | 0 | 24 | 1 |
-| 360d | 2025-09-15 | 0 | 5 | 17 | 1 | 51 | 5 |
-
 ## 代码规模
 
 合计: **141,668** 行代码（覆盖前 5 种语言、共 **1205** 个文件）。
@@ -73,6 +34,67 @@ x install aria2
 - **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## 源代码
+
+- **上游仓库**: <https://github.com/aria2/aria2>
+- **官网**: <https://aria2.github.io/>
+- **许可证**: GPL-2.0
+
+## 发布
+
+- **最新版本**: `release-1.37.0` (2023-11-15)
+- **最近提交**: 2026-06-25
+- **Release 含资产**: 6 个
+
+## 流行度
+
+- **Star**: 41,969 · **Fork**: 3,898 · **开放 issue**: 1,944 · **贡献者**: 64
+
+## 累计统计
+
+- **发布数**: 24 · **已合并 PR**: 258 · **开放 PR**: 63 · **已关闭 issue**: 830 · **开放 issue**: 1114 · **提交数**: 5447
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 19 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 7 | 0 | 23 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 9 | 0 | 24 | 1 |
+| last180d | 2026-03-14 | 0 | 2 | 13 | 0 | 30 | 2 |
+| 360d | 2025-09-15 | 0 | 5 | 17 | 1 | 51 | 5 |
+| last720d | 2024-09-20 | 0 | 6 | 19 | 6 | 92 | 12 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aria2-1.37.0-aarch64-linux-android-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-aarch64-linux-android-build1.zip) | 2.4 MiB | `native/linux/arm64` |
+| [aria2-1.37.0-win-32bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip) | 2.4 MiB | `other` |
+| [aria2-1.37.0-win-64bit-build1.zip](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip) | 2.4 MiB | `other` |
+| [aria2-1.37.0.tar.bz2](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.bz2) | 2.3 MiB | `other` |
+| [aria2-1.37.0.tar.gz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz) | 3.7 MiB | `native/unknown` |
+| [aria2-1.37.0.tar.xz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz) | 1.6 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/aria2) 上共有 **235** 个发行版报告此项目。**141** 个 ✅ 已是最新上游版本，**41** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.37.0` | ✅ latest |
+| Debian 14 | `1.37.0` | ✅ latest |
+| Debian 13 | `1.37.0` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.37.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.37.0` | ✅ latest |
+| Arch | `1.37.0` | ✅ latest |
+| Homebrew | `1.37.0` | ✅ latest |
+| Fedora rawhide | `1.37.0` | ✅ latest |
+| Nix unstable | `1.37.0` | ✅ latest |
+| Void | `1.37.0` | ✅ latest |
+| Alpine edge | `1.37.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
+
 ## 改进这些数据
 
 aria2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aria2` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -82,4 +104,4 @@ aria2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:48:22Z._
