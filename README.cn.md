@@ -12,7 +12,7 @@ aria2 is a lightweight multi-protocol & multi-source, cross platform download ut
 x install aria2
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **141,668** 行代码（覆盖前 5 种语言、共 **1205** 个文件）。
 
@@ -23,16 +23,6 @@ x install aria2
 | ReStructuredText | 10,977 | 0 | 3,844 | 13 |
 | C | 4,957 | 1,038 | 574 | 22 |
 | Svg | 2,671 | 0 | 0 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.4 / 10**
-
-评分最低的几项:
-
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -104,4 +94,4 @@ aria2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:48:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:09:56Z._

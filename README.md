@@ -24,16 +24,6 @@ Total: **141,668** lines of code across **1205** files in the top 5 languages.
 | C | 4,957 | 1,038 | 574 | 22 |
 | Svg | 2,671 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.4 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/aria2/aria2>
@@ -104,4 +94,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:48:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:09:55Z._
