@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2508263,
       "digest": null,
-      "download_count": 74676,
+      "download_count": 74758,
       "created_at": "2023-11-15T12:06:43Z",
       "updated_at": "2023-11-15T12:06:48Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-aarch64-linux-android-build1.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2558495,
       "digest": null,
-      "download_count": 110357,
+      "download_count": 110485,
       "created_at": "2023-11-15T12:06:51Z",
       "updated_at": "2023-11-15T12:06:53Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2475379,
       "digest": null,
-      "download_count": 1296922,
+      "download_count": 1300608,
       "created_at": "2023-11-15T12:06:48Z",
       "updated_at": "2023-11-15T12:06:51Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2392193,
       "digest": null,
-      "download_count": 21251,
+      "download_count": 21262,
       "created_at": "2023-11-15T12:06:58Z",
       "updated_at": "2023-11-15T12:06:59Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.bz2"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3904613,
       "digest": null,
-      "download_count": 57446,
+      "download_count": 57482,
       "created_at": "2023-11-15T12:06:54Z",
       "updated_at": "2023-11-15T12:06:58Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1705256,
       "digest": null,
-      "download_count": 363054,
+      "download_count": 363489,
       "created_at": "2023-11-15T12:06:53Z",
       "updated_at": "2023-11-15T12:06:54Z",
       "browser_download_url": "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz"
