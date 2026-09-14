@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,141 · **Forks**: 3,897 · **Open issues**: 1,944 · **Contributors**: 64
+- **Stars**: 42,237 · **Forks**: 3,904 · **Open issues**: 1,943 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 63 · **Closed issues**: 830 · **Open issues**: 1114 · **Commits**: 5447
+- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 63 · **Closed issues**: 829 · **Open issues**: 1114 · **Commits**: 5447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 19 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 7 | 0 | 23 | 0 |
-| 90d | 2026-06-15 | 0 | 1 | 9 | 0 | 24 | 1 |
-| last180d | 2026-03-17 | 0 | 2 | 13 | 0 | 30 | 2 |
-| 360d | 2025-09-18 | 0 | 5 | 17 | 1 | 50 | 5 |
-| last720d | 2024-09-23 | 0 | 6 | 19 | 6 | 91 | 12 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 19 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 7 | 0 | 23 | 0 |
+| 90d | 2026-06-16 | 0 | 1 | 9 | 0 | 24 | 1 |
+| last180d | 2026-03-18 | 0 | 2 | 13 | 0 | 30 | 2 |
+| 360d | 2025-09-19 | 0 | 5 | 17 | 1 | 50 | 5 |
+| last720d | 2024-09-24 | 0 | 6 | 19 | 6 | 91 | 12 |
 
 ## Release assets
 
@@ -76,25 +76,6 @@ Lowest-scoring checks:
 | [aria2-1.37.0.tar.gz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz) | 3.7 MiB | `native/unknown` |
 | [aria2-1.37.0.tar.xz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz) | 1.6 MiB | `other` |
 
-## Distribution status
-
-Reported by **235** distros on [repology.org](https://repology.org/project/aria2). **141** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.37.0` | ✅ latest |
-| Debian 14 | `1.37.0` | ✅ latest |
-| Debian 13 | `1.37.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.37.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.37.0` | ✅ latest |
-| Arch | `1.37.0` | ✅ latest |
-| Homebrew | `1.37.0` | ✅ latest |
-| Fedora rawhide | `1.37.0` | ✅ latest |
-| Nix unstable | `1.37.0` | ✅ latest |
-| Void | `1.37.0` | ✅ latest |
-| Alpine edge | `1.37.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aria2` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +85,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:40:47Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:48:28Z._
