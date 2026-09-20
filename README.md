@@ -4,7 +4,7 @@
 
 aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-![aria2](https://repo.x-cmd.io/aria2.svg)
+[![x-cmd/install — aria2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aria2.svg)](https://x-cmd.com/install/aria2)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,468 · **Forks**: 3,918 · **Open issues**: 1,943 · **Contributors**: 64
+- **Stars**: 42,541 · **Forks**: 3,923 · **Open issues**: 1,944 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 64 · **Closed issues**: 829 · **Open issues**: 1114 · **Commits**: 5447
+- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 64 · **Closed issues**: 830 · **Open issues**: 1114 · **Commits**: 5447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 19 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 23 | 0 |
-| 90d | 2026-06-20 | 0 | 1 | 9 | 0 | 24 | 1 |
-| last180d | 2026-03-22 | 0 | 2 | 13 | 0 | 30 | 2 |
-| 360d | 2025-09-23 | 0 | 5 | 18 | 0 | 48 | 5 |
-| last720d | 2024-09-28 | 0 | 6 | 20 | 6 | 91 | 12 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 20 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 8 | 0 | 24 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 9 | 0 | 25 | 1 |
+| last180d | 2026-03-24 | 0 | 2 | 13 | 0 | 31 | 2 |
+| 360d | 2025-09-25 | 0 | 5 | 18 | 0 | 49 | 5 |
+| last720d | 2024-09-30 | 0 | 6 | 20 | 6 | 92 | 12 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:41:10Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:50Z._
