@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,221 · **Forks**: 3,953 · **Open issues**: 1,947 · **Contributors**: 64
+- **Stars**: 43,231 · **Forks**: 3,952 · **Open issues**: 1,947 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 3 | 0 | 23 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 6 | 0 | 27 | 0 |
-| last180d | 2026-04-25 | 0 | 2 | 15 | 0 | 32 | 2 |
-| 360d | 2025-10-27 | 0 | 5 | 18 | 0 | 47 | 5 |
-| last720d | 2024-11-01 | 0 | 6 | 22 | 6 | 89 | 12 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 3 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 3 | 0 | 8 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 6 | 0 | 27 | 0 |
+| last180d | 2026-04-26 | 0 | 2 | 15 | 0 | 32 | 2 |
+| 360d | 2025-10-28 | 0 | 5 | 18 | 0 | 47 | 5 |
+| last720d | 2024-11-02 | 0 | 6 | 22 | 6 | 89 | 12 |
 
 ## Release assets
 
@@ -76,6 +76,25 @@ Lowest-scoring checks:
 | [aria2-1.37.0.tar.gz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.gz) | 3.7 MiB | `native/unknown` |
 | [aria2-1.37.0.tar.xz](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz) | 1.6 MiB | `other` |
 
+## Distribution status
+
+Reported by **230** distros on [repology.org](https://repology.org/project/aria2). **138** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.37.0` | ✅ latest |
+| Debian 14 | `1.37.0` | ✅ latest |
+| Debian 13 | `1.37.0` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.37.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `1.37.0` | ✅ latest |
+| Arch | `1.37.0` | ✅ latest |
+| Homebrew | `1.37.0` | ✅ latest |
+| Fedora rawhide | `1.37.0` | ✅ latest |
+| Nix unstable | `1.37.0` | ✅ latest |
+| Void | `1.37.0` | ✅ latest |
+| Alpine edge | `1.37.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aria2` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +104,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:33:23Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:55Z._
