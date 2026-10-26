@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,266 · **Forks**: 3,955 · **Open issues**: 1,947 · **Contributors**: 64
+- **Stars**: 43,275 · **Forks**: 3,955 · **Open issues**: 1,948 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 66 · **Closed issues**: 830 · **Open issues**: 1117 · **Commits**: 5447
+- **Releases**: 24 · **Merged PRs**: 258 · **Open PRs**: 66 · **Closed issues**: 830 · **Open issues**: 1118 · **Commits**: 5447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 3 | 0 | 8 | 0 |
-| 90d | 2026-07-27 | 0 | 0 | 6 | 0 | 27 | 0 |
-| last180d | 2026-04-28 | 0 | 2 | 15 | 0 | 32 | 2 |
-| 360d | 2025-10-30 | 0 | 5 | 18 | 0 | 47 | 5 |
-| last720d | 2024-11-04 | 0 | 6 | 22 | 6 | 89 | 12 |
+| 30d | 2026-09-26 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 3 | 0 | 9 | 0 |
+| 90d | 2026-07-28 | 0 | 0 | 5 | 0 | 27 | 0 |
+| last180d | 2026-04-29 | 0 | 2 | 15 | 0 | 33 | 2 |
+| 360d | 2025-10-31 | 0 | 5 | 18 | 0 | 47 | 5 |
+| last720d | 2024-11-05 | 0 | 6 | 22 | 6 | 90 | 12 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **231** distros on [repology.org](https://repology.org/project/aria2). **139** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **232** distros on [repology.org](https://repology.org/project/aria2). **140** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:31:36Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:34:10Z._
