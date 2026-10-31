@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,322 · **Forks**: 3,957 · **Open issues**: 1,949 · **Contributors**: 64
+- **Stars**: 43,347 · **Forks**: 3,958 · **Open issues**: 1,949 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 2 | 0 | 5 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 4 | 0 | 8 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 6 | 0 | 27 | 0 |
-| last180d | 2026-05-03 | 0 | 2 | 15 | 0 | 33 | 2 |
-| 360d | 2025-11-04 | 0 | 5 | 19 | 0 | 46 | 5 |
-| last720d | 2024-11-09 | 0 | 6 | 23 | 6 | 90 | 12 |
+| 30d | 2026-10-01 | 0 | 0 | 2 | 0 | 5 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 4 | 0 | 8 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 6 | 0 | 27 | 0 |
+| last180d | 2026-05-04 | 0 | 2 | 15 | 0 | 33 | 2 |
+| 360d | 2025-11-05 | 0 | 5 | 19 | 0 | 46 | 5 |
+| last720d | 2024-11-10 | 0 | 6 | 23 | 6 | 90 | 12 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:38:36Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:24:38Z._
