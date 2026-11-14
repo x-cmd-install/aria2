@@ -1,30 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: aria2
-  binname: aria2
-  visiblename: aria2
-  version: 1.37.0
-  origversion: 1.37.0-3
-  status: newest
-  summary: Download utility that supports HTTP(S), FTP, BitTorrent, and Metalink
-  licenses:
-    - GPL-2.0-only
-- repo: parrot
-  subrepo: parrot/main
-  srcname: aria2
-  binnames:
-    - aria2
-    - libaria2-0
-    - libaria2-0-dev
-  visiblename: aria2
-  version: 1.37.0
-  origversion: 1.37.0+debian-3
-  status: newest
-  maintainers:
-    - patrick@ch.tario.org
-    - kartik@debian.org
-  categories:
-    - net
 - repo: parrot
   subrepo: parrot-updates/main
   srcname: aria2
@@ -41,6 +14,46 @@
     - kartik@debian.org
   categories:
     - net
+- repo: adelie_current
+  subrepo: user
+  srcname: aria2
+  binname: aria2-openrc
+  visiblename: aria2-openrc
+  version: 1.37.0
+  origversion: 1.37.0-r0
+  status: newest
+  summary: Support for running Aria2 as a daemon using OpenRC
+  maintainers:
+    - alicela1n@protonmail.com
+  licenses:
+    - GPL-2.0+
+- repo: parrot
+  subrepo: parrot/main
+  srcname: aria2
+  binnames:
+    - aria2
+    - libaria2-0
+    - libaria2-0-dev
+  visiblename: aria2
+  version: 1.37.0
+  origversion: 1.37.0+debian-3
+  status: newest
+  maintainers:
+    - patrick@ch.tario.org
+    - kartik@debian.org
+  categories:
+    - net
+- repo: chimera
+  subrepo: main
+  srcname: aria2
+  binname: aria2
+  visiblename: aria2
+  version: 1.37.0
+  origversion: 1.37.0-r1
+  status: newest
+  summary: Multi-protocol download utility
+  licenses:
+    - GPL-2.0-or-later
 - repo: adelie_current
   subrepo: user
   srcname: aria2
@@ -93,19 +106,6 @@
     - alicela1n@protonmail.com
   licenses:
     - GPL-2.0+
-- repo: adelie_current
-  subrepo: user
-  srcname: aria2
-  binname: aria2-openrc
-  visiblename: aria2-openrc
-  version: 1.37.0
-  origversion: 1.37.0-r0
-  status: newest
-  summary: Support for running Aria2 as a daemon using OpenRC
-  maintainers:
-    - alicela1n@protonmail.com
-  licenses:
-    - GPL-2.0+
 - repo: alpine_3_19
   subrepo: community
   srcname: aria2
@@ -117,6 +117,17 @@
   summary: Download utility for HTTP(S), (S)FTP, Bittorrent, and Metalink
   maintainers:
     - ncopa@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: main
+  srcname: aria2
+  binname: aria2-doc
+  visiblename: aria2-doc
+  version: 1.37.0
+  origversion: 1.37.0-r1
+  status: newest
+  summary: Multi-protocol download utility (documentation)
   licenses:
     - GPL-2.0-or-later
 - repo: alpine_3_19
@@ -548,13 +559,6 @@
     - wanghao03@loongson.cn
   licenses:
     - GPL-2.0-or-later
-- repo: chocolatey
-  binname: aria2
-  visiblename: Aria2 Client
-  version: 1.37.0
-  origversion: null
-  status: newest
-  summary: CLI Metalink/BitTorrent client
 - repo: alpine_edge
   subrepo: community
   srcname: aria2
@@ -681,28 +685,6 @@
 - repo: chimera
   subrepo: main
   srcname: aria2
-  binname: aria2
-  visiblename: aria2
-  version: 1.37.0
-  origversion: 1.37.0-r1
-  status: newest
-  summary: Multi-protocol download utility
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: aria2
-  binname: aria2-doc
-  visiblename: aria2-doc
-  version: 1.37.0
-  origversion: 1.37.0-r1
-  status: newest
-  summary: Multi-protocol download utility (documentation)
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: aria2
   binname: aria2-locale
   visiblename: aria2-locale
   version: 1.37.0
@@ -722,6 +704,13 @@
   summary: Multi-protocol download utility (manual pages)
   licenses:
     - GPL-2.0-or-later
+- repo: chocolatey
+  binname: aria2
+  visiblename: Aria2 Client
+  version: 1.37.0
+  origversion: null
+  status: newest
+  summary: CLI Metalink/BitTorrent client
 - repo: chromebrew
   srcname: aria2
   visiblename: aria2
@@ -1428,6 +1417,17 @@
     - kuoruan@gmail.com
   categories:
     - net
+- repo: parabola
+  subrepo: extra
+  srcname: aria2
+  binname: aria2
+  visiblename: aria2
+  version: 1.37.0
+  origversion: 1.37.0-3
+  status: newest
+  summary: Download utility that supports HTTP(S), FTP, BitTorrent, and Metalink
+  licenses:
+    - GPL-2.0-only
 - repo: pisi_main
   subrepo: main
   srcname: network/download/aria2
@@ -1839,7 +1839,7 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: 1.18.5
+  version: 1.11.1
   origversion: null
   status: legacy
   licenses:
@@ -1851,7 +1851,33 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: 1.18.8
+  version: "1.10"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: aria2
+  binname: aria2-daemon
+  visiblename: aria2-daemon
+  version: 1.36.0
+  origversion: 1.36.0-r2
+  status: outdated
+  summary: Support for running Aria2 as a daemon using OpenRC
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
+  vulnerable: true
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
+  version: 1.11.2
   origversion: null
   status: legacy
   licenses:
@@ -1863,7 +1889,7 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: 1.18.10
+  version: "1.36"
   origversion: null
   status: legacy
   licenses:
@@ -1888,15 +1914,17 @@
   categories:
     - net
   vulnerable: true
-- repo: pclinuxos
-  srcname: aria2
-  visiblename: aria2
-  version: 1.36.0
-  origversion: 1.36.0-2pclos2022
-  status: outdated
-  summary: Download utility with resuming and segmented downloading
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
+  version: "1.12"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
   categories:
-    - Networking/File transfer
+    - Communications
   vulnerable: true
 - repo: aix_osp
   srcname: aria2
@@ -1919,31 +1947,29 @@
   origversion: 1.17.1-1
   status: outdated
   vulnerable: true
-- repo: alpine_3_17
-  subrepo: community
+- repo: pclinuxos
   srcname: aria2
-  binname: aria2
   visiblename: aria2
   version: 1.36.0
-  origversion: 1.36.0-r1
+  origversion: 1.36.0-2pclos2022
   status: outdated
-  summary: Download utility for HTTP(S), (S)FTP, Bittorrent, and Metalink
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - GPL-2.0-or-later
-  vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
-  version: "1.19"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
+  summary: Download utility with resuming and segmented downloading
   categories:
-    - Communications
+    - Networking/File transfer
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: aria2
+  binname: aria2
+  visiblename: aria2
+  version: 1.36.0
+  origversion: 1.36.0-r1
+  status: outdated
+  summary: Download utility for HTTP(S), (S)FTP, Bittorrent, and Metalink
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
   vulnerable: true
 - repo: alpine_3_17
   subrepo: community
@@ -2032,20 +2058,6 @@
 - repo: alpine_3_18
   subrepo: community
   srcname: aria2
-  binname: aria2-daemon
-  visiblename: aria2-daemon
-  version: 1.36.0
-  origversion: 1.36.0-r2
-  status: outdated
-  summary: Support for running Aria2 as a daemon using OpenRC
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - GPL-2.0-or-later
-  vulnerable: true
-- repo: alpine_3_18
-  subrepo: community
-  srcname: aria2
   binname: aria2-dbg
   visiblename: aria2-dbg
   version: 1.36.0
@@ -2075,7 +2087,7 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: 1.10.7
+  version: "1.35"
   origversion: null
   status: legacy
   licenses:
@@ -2190,18 +2202,6 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
-  version: "1.35"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-  vulnerable: true
 - repo: epel_9
   srcname: aria2
   binnames:
@@ -2286,18 +2286,6 @@
   categories:
     - net-misc
   vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
-  version: 1.11.2
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-  vulnerable: true
 - repo: liguros_develop
   srcname: net-misc/aria2
   visiblename: net-misc/aria2
@@ -2352,7 +2340,7 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: "1.12"
+  version: 1.10.9
   origversion: null
   status: legacy
   licenses:
@@ -2392,18 +2380,6 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: "1.10"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-  vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
   version: 1.10.6
   origversion: null
   status: legacy
@@ -2416,31 +2392,19 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
+  version: 1.10.7
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+  vulnerable: true
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
   version: 1.10.8
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-  vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
-  version: 1.10.9
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-  vulnerable: true
-- repo: npackd_stable
-  srcname: net.sourceforge.aria2.Aria2
-  binname: net.sourceforge.aria2.Aria2
-  visiblename: Aria2
-  version: 1.11.1
   origversion: null
   status: legacy
   licenses:
@@ -2608,7 +2572,7 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: "1.34"
+  version: 1.18.5
   origversion: null
   status: legacy
   licenses:
@@ -2620,7 +2584,43 @@
   srcname: net.sourceforge.aria2.Aria2
   binname: net.sourceforge.aria2.Aria2
   visiblename: Aria2
-  version: "1.36"
+  version: 1.18.8
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+  vulnerable: true
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
+  version: 1.18.10
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+  vulnerable: true
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
+  version: "1.19"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+  vulnerable: true
+- repo: npackd_stable
+  srcname: net.sourceforge.aria2.Aria2
+  binname: net.sourceforge.aria2.Aria2
+  visiblename: Aria2
+  version: "1.34"
   origversion: null
   status: legacy
   licenses:
