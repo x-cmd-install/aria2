@@ -31,8 +31,8 @@ x install aria2
 评分最低的几项:
 
 - **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install aria2
 
 ## 流行度
 
-- **Star**: 43,537 · **Fork**: 3,962 · **开放 issue**: 1,951 · **贡献者**: 64
+- **Star**: 43,561 · **Fork**: 3,961 · **开放 issue**: 1,951 · **贡献者**: 64
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install aria2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 5 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 5 | 0 | 7 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 6 | 0 | 27 | 0 |
-| last180d | 2026-05-21 | 0 | 1 | 16 | 0 | 34 | 1 |
-| 360d | 2025-11-22 | 0 | 5 | 21 | 0 | 48 | 4 |
-| last720d | 2024-11-27 | 0 | 6 | 25 | 5 | 91 | 12 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 5 | 0 | 7 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 6 | 0 | 27 | 0 |
+| last180d | 2026-05-23 | 0 | 1 | 16 | 0 | 34 | 1 |
+| 360d | 2025-11-24 | 0 | 4 | 21 | 0 | 47 | 4 |
+| last720d | 2024-11-29 | 0 | 6 | 24 | 5 | 91 | 12 |
 
 ## Release 资产
 
@@ -78,7 +78,7 @@ x install aria2
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/aria2) 上共有 **233** 个发行版报告此项目。**142** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/aria2) 上共有 **232** 个发行版报告此项目。**142** 个 ✅ 已是最新上游版本，**37** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -104,4 +104,4 @@ aria2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T07:53:04Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:19:19Z._

@@ -31,8 +31,8 @@ Overall score: **3.3 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,537 · **Forks**: 3,962 · **Open issues**: 1,951 · **Contributors**: 64
+- **Stars**: 43,561 · **Forks**: 3,961 · **Open issues**: 1,951 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 5 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 5 | 0 | 7 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 6 | 0 | 27 | 0 |
-| last180d | 2026-05-21 | 0 | 1 | 16 | 0 | 34 | 1 |
-| 360d | 2025-11-22 | 0 | 5 | 21 | 0 | 48 | 4 |
-| last720d | 2024-11-27 | 0 | 6 | 25 | 5 | 91 | 12 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 5 | 0 | 7 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 6 | 0 | 27 | 0 |
+| last180d | 2026-05-23 | 0 | 1 | 16 | 0 | 34 | 1 |
+| 360d | 2025-11-24 | 0 | 4 | 21 | 0 | 47 | 4 |
+| last720d | 2024-11-29 | 0 | 6 | 24 | 5 | 91 | 12 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **233** distros on [repology.org](https://repology.org/project/aria2). **142** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **232** distros on [repology.org](https://repology.org/project/aria2). **142** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for aria2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:53:02Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:19:18Z._
